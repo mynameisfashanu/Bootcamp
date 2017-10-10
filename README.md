@@ -84,8 +84,8 @@ Software development bootcamp
 ### Web Security - Bug Bounty Programs
 
 * **Courses** 
-  * CTF Field Guide.
   * Introduction to Software Exploits (Exploits 1)
+  * CTF Field Guide.
   * CNIT 129S: Securing Web Application.
   * Matasano Crypto Challenges.
 * **Books**
