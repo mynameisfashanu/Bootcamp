@@ -38,9 +38,9 @@ Software development bootcamp
 
 ### C# Programming 
 
-* C# Fundamentals.(Project Euler)
-* C# Object Orientated Programming.(Karan programming projects)
-* C# Advanced Programming.(Pratice and understand concepts)
+* C# Fundamentals.
+* C# Object Orientated Programming.
+* C# Advanced Programming.
 
 ### Web Development Fundamentals.
 
@@ -75,7 +75,6 @@ Software development bootcamp
 * Clean Code: Writing Code for Humans.
 * C# Interfaces.
 * Abstract Art: Getting Things "Just Right".
-
 * Dependency Injection On-Ramp.
 * SOLID Principles of Object-Oriented Design.
 * Design Patterns On-Ramp.
@@ -96,10 +95,10 @@ Software development bootcamp
   * Hacker Playbook 2.
   * Blackhat python.
 * **Practice**
-	* Bug Bounties.
-	* Exploit exercises.
+  * Bug Bounties.
+  * Exploit exercises.
   * Over the wire.
- 	* CTFs.
-	* pentesterlabs.
-	* Vulnhub.
-	* WebGoat, DVWA, Gruyere.
+  * CTFs.
+  * pentesterlabs.
+  * Vulnhub.
+  * WebGoat, DVWA, Gruyere.
