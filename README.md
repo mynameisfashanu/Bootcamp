@@ -88,6 +88,7 @@ Software development bootcamp
   * CTF Field Guide.
   * CNIT 129S: Securing Web Application.
   * Matasano Crypto Challenges.
+  * Modern binary exploitation.
 * **Books**
   * Hacking the art of Exploitation.
   * Web Hacking 101.
