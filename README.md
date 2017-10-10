@@ -71,15 +71,15 @@ Software development bootcamp
 
 ### Software Engineering.
 * **Part 1**
- * Defensive Coding in C#.
- * Clean Code: Writing Code for Humans.
- * C# Interfaces.
- * Abstract Art: Getting Things "Just Right".
+  * Defensive Coding in C#.
+  * Clean Code: Writing Code for Humans.
+  * C# Interfaces.
+  * Abstract Art: Getting Things "Just Right".
 * **Part 2**
- * Dependency Injection On-Ramp.
- * SOLID Principles of Object-Oriented Design.
- * Design Patterns On-Ramp.
- * Design Patterns Library.
+  * Dependency Injection On-Ramp.
+  * SOLID Principles of Object-Oriented Design.
+  * Design Patterns On-Ramp.
+  * Design Patterns Library.
 
 ### Web Security - Bug Bounty Programs
 
