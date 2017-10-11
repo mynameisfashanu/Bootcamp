@@ -48,6 +48,7 @@ Software development bootcamp
 * Javascript/JQuery/Ajax.(Basics, Scope, Error Handling, OOP, DOM manipulation, JQuery, Ajax)
 * SQL Database Design Basics.
 * The Complete ASP.NET MVC 5 Course.
+* ASP.NET MVC 5 Fundamentals Pluralsight
 * Networking for Web Developers.
 * Client-Server Communication.
 
