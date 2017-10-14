@@ -1,7 +1,7 @@
 # Bootcamp
-Software development bootcamp
+Software Development Bootcamp
 
-## Software Engineering
+## Software Engineering Overview.
 
 * C# Fundamentals.
 * C# Object Orientated Programming.
@@ -26,81 +26,58 @@ Software development bootcamp
 ### Process
 
 * ABC - Always Be Coding.
-* Code for at least 2 hour Every Day Outside work.
-* Focus on one thing at a time.
-* Don't Learn Security until you've mastered the fundamentals - (C#, HTTP, JS, SQL, MVC, Networking, SSL/HTTPS)
 * Step 1 : Understand Concept - books, tutorials, videos, draw diagrams, explain the concept.
 * Step 2 : Practice concept - Small exercises and challenges.
 * Step 3 : Apply concept - Apply concept to a real life problem.
-* Project Euler.
-* Karan programming projects.
-* Build a project based on the Concept you're trying to learn.
+* [Project Euler - Math and programming challenges](https://projecteuler.net/)
+* [Karan programming projects - list of programming projects](https://github.com/karan/Projects)
+* Build a projects based on the Concept you're trying to learn.
 
 ### C# Programming 
 
-* C# Fundamentals.
-* C# Object Orientated Programming.
-* C# Advanced Programming.
+* [C# Fundamentals](https://codewithmosh.teachable.com/p/csharp-basics-for-beginners/?coupon_code=HALFOFF)
+* [C# Object Orientated Programming](https://codewithmosh.teachable.com/p/object-oriented-programming-in-csharp/?coupon_code=HALFOFF)
+* [C# Advanced Programming](https://codewithmosh.teachable.com/p/csharp-advanced/?coupon_code=HALFOFF)
 
 ### Web Development Fundamentals.
 
-* HTTP & Web Servers.
-* Javascript/JQuery/Ajax.(Basics, Scope, Error Handling, OOP, DOM manipulation, JQuery, Ajax)
-* SQL Database Design Basics.
-* The Complete ASP.NET MVC 5 Course.
-* ASP.NET MVC 5 Fundamentals Pluralsight
-* Networking for Web Developers.
-* Client-Server Communication.
+* [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+* [Javascript/JQuery/Ajax](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+* [SQL Database Design Basics](https://www.ntu.edu.sg/home/ehchua/programming/sql/MySQL_HowTo.html#show-toc)
+* [The Complete ASP.NET MVC 5 Course](https://www.udemy.com/the-complete-aspnet-mvc-5-course/)
+* [ASP.NET MVC 5 Fundamentals Pluralsight](https://www.pluralsight.com/courses/aspdotnet-mvc5-fundamentals)
+* [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+* [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 
 ### Full Stack Web Development 
 
-* Learn Full Stack ASP.Net MVC - Junior.
-* Learn Full Stack ASP.Net MVC - Intermediate.
-* Learn Full Stack ASP.Net MVC - Advanced.
-* Entity Framework.
+* [Learn Full Stack ASP.Net MVC - Fundamentals](https://www.pluralsight.com/courses/full-stack-dot-net-developer-fundamentals)
+* [Learn Full Stack ASP.Net MVC - Advanced](https://www.pluralsight.com/courses/full-stack-dot-net-developer)
+* [Learn Full Stack ASP.Net MVC - Testing & Architecture](https://www.pluralsight.com/courses/full-stack-dot-net-developer-architecture-testing)
+* [Entity Framework](https://www.udemy.com/entity-framework-tutorial/?couponCode=blog15d)
 
 ### Advanced Web Development
 
-* Automated ASP.NET MVC Testing: End to End
-* ASP.NET Security Secrets Revealed
-* ASP.NET Bundling , Minification & Resource Optimization
-* Build Your Own Application Framework with ASP.NET MVC 5
+* [Automated ASP.NET MVC Testing: End to End](https://www.pluralsight.com/courses/automated-aspdotnet-mvc)
+* [ASP.NET Security Secrets Revealed](https://www.pluralsight.com/courses/aspdotnet-security-secrets-revealed)
+* [ASP.NET Bundling , Minification & Resource Optimization](https://www.pluralsight.com/courses/aspnet-bundling-minification-resource-optimization)
+* [Build Your Own Application Framework with ASP.NET MVC 5](https://www.pluralsight.com/courses/build-application-framework-aspdotnet-mvc-5)
 
 ### Computer Science
 
-* Algorithms and Data Structures.
+* [Algorithms and Data Structures](https://www.coursera.org/learn/algorithms-part1)
 
 ### Software Engineering.
 * **Part 1**
-  * Defensive Coding in C#.
-  * Clean Code: Writing Code for Humans.
-  * C# Interfaces.
-  * Abstract Art: Getting Things "Just Right".
+  * [Defensive Coding in C#](https://www.pluralsight.com/courses/defensive-coding-csharp)
+  * [Clean Code: Writing Code for Humans](https://www.pluralsight.com/courses/writing-clean-code-humans)
+  * [C# Interfaces](https://www.pluralsight.com/courses/csharp-interfaces)
+  * [Abstract Art: Getting Things "Just Right"](https://www.pluralsight.com/courses/abstract-art-getting-things-just-right)
 * **Part 2**
-  * Dependency Injection On-Ramp.
-  * SOLID Principles of Object-Oriented Design.
-  * Design Patterns On-Ramp.
-  * Design Patterns Library.
+  * [Dependency Injection On-Ramp](https://www.pluralsight.com/courses/dependency-injection-on-ramp)
+  * [SOLID Principles of Object-Oriented Design](https://www.pluralsight.com/courses/principles-oo-design)
+  * [Design Patterns On-Ramp](https://www.pluralsight.com/courses/design-patterns-on-ramp)
+  * [Design Patterns Library](https://www.pluralsight.com/courses/patterns-library)
 
-### Web Security - Bug Bounty Programs
-
-* **Courses** 
-  * CTF Field Guide.
-  * Introduction to Software Exploits (Exploits 1)
-  * CNIT 129S: Securing Web Application.
-  * Matasano Crypto Challenges.
-* **Books**
-  * Hacking the art of Exploitation.
-  * Web Hacking 101.
-  * Web Hackers Handguide 2.
-  * The Tangled Web.
-  * Hacker Playbook 2.
-  * Blackhat python.
-* **Practice**
-  * Bug Bounties.
-  * Exploit exercises.
-  * Over the wire.
-  * CTFs.
-  * pentesterlabs.
-  * Vulnhub.
-  * WebGoat, DVWA, Gruyere.
+### Web Security
+* [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
