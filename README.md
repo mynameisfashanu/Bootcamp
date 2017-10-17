@@ -1,6 +1,6 @@
 # Learning ASP.Net Web development
 
-This is a curriculum I developed for learning asp.net mvc and C# using both free and paid for resouces.
+This is a curriculum I developed for learning web development using asp.net mvc and C#.
 
 ## Backend Web Development Overview.
 
@@ -49,6 +49,13 @@ This is a curriculum I developed for learning asp.net mvc and C# using both free
 * [ASP.NET MVC 5 Fundamentals Pluralsight](https://www.pluralsight.com/courses/aspdotnet-mvc5-fundamentals)
 * [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 * [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+
+### Front-End Development
+
+*  [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=LEARNWEBSITES15)
+*  [The Complete JavaScript Course: Build a Real-World Project](https://www.udemy.com/the-complete-javascript-course/?couponCode=LEARNJAVASCRIPT15) 
+*  [Angular 4: Beginner to Pro](http://codewithmosh.teachable.com/p/angular-master-class/?product_id=421179&coupon_code=151OFF)
+*  [Build Enterprise Applications with Angular 2 (and Angular 4)](https://www.udemy.com/angular2-advanced/?couponCode=NG2BLOG)
 
 ### Full Stack Web Development 
 
