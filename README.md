@@ -1,7 +1,8 @@
-# Bootcamp
-Software Development Bootcamp
+# Learning ASP.Net Web development
 
-## Software Engineering Overview.
+This is a curriculum I developed for learning asp.net mvc and C# using both free and paid for resouces.
+
+## Backend Web Development Overview.
 
 * C# Fundamentals.
 * C# Object Orientated Programming.
