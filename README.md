@@ -19,7 +19,7 @@ This is a curriculum I developed for learning web development using asp.net mvc 
 * Real time communications(WebSockets / SingalR)
 * Datastructures and Algorithms.
 * Design patterns.(SOLID, YAGNI, KISS)
-* Front-end Development(Advanced Javascript, Backbone)
+* Front-end Development(Angular)
 * Web Security.
 * Scalability and Architecture.
 * Version control, Best practices, TTD, Contionus Delivery, Code Review.
