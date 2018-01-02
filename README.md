@@ -86,7 +86,5 @@ This is a curriculum I developed for learning web development using asp.net mvc 
 
 ### Web Security
 
-* [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
-* [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 * [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
   
