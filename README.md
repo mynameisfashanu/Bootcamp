@@ -54,12 +54,6 @@ This is a curriculum I developed for learning web development using asp.net mvc 
 * [Learn Full Stack ASP.Net MVC - Testing & Architecture](https://www.pluralsight.com/courses/full-stack-dot-net-developer-architecture-testing)
 * [Entity Framework](https://www.udemy.com/entity-framework-tutorial/?couponCode=blog15d)
 
-### Advanced Web Development
-
-* [Automated ASP.NET MVC Testing: End to End](https://www.pluralsight.com/courses/automated-aspdotnet-mvc)
-* [ASP.NET Security Secrets Revealed](https://www.pluralsight.com/courses/aspdotnet-security-secrets-revealed)
-* [ASP.NET Bundling , Minification & Resource Optimization](https://www.pluralsight.com/courses/aspnet-bundling-minification-resource-optimization)
-* [Build Your Own Application Framework with ASP.NET MVC 5](https://www.pluralsight.com/courses/build-application-framework-aspdotnet-mvc-5)
 
 ### Front-End Development
 
@@ -67,6 +61,15 @@ This is a curriculum I developed for learning web development using asp.net mvc 
 *  [The Complete JavaScript Course: Build a Real-World Project](https://www.udemy.com/the-complete-javascript-course/?couponCode=LEARNJAVASCRIPT15) 
 *  [Angular 4: Beginner to Pro](http://codewithmosh.teachable.com/p/angular-master-class/?product_id=421179&coupon_code=151OFF)
 *  [Build Enterprise Applications with Angular 2 (and Angular 4)](https://www.udemy.com/angular2-advanced/?couponCode=NG2BLOG)
+
+
+### Advanced Web Development
+
+* [Automated ASP.NET MVC Testing: End to End](https://www.pluralsight.com/courses/automated-aspdotnet-mvc)
+* [ASP.NET Security Secrets Revealed](https://www.pluralsight.com/courses/aspdotnet-security-secrets-revealed)
+* [ASP.NET Bundling , Minification & Resource Optimization](https://www.pluralsight.com/courses/aspnet-bundling-minification-resource-optimization)
+* [Build Your Own Application Framework with ASP.NET MVC 5](https://www.pluralsight.com/courses/build-application-framework-aspdotnet-mvc-5)
+
 
 ### Computer Science
 
